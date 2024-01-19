@@ -1,95 +1,39 @@
-# Privacy Policy
+# 비만도 계산기 서비스 개인정보처리방침
+
+## 개인정보처리방침이란?
+비만도 계산기는 이용자의 동의를 기반으로 개인정보를 수집·이용 및 제공하고 있으며, 이용자의 권리(개인정보 자기결정권)를 적극적으로 보장합니다.
+회사는 정보통신서비스제공자가 준수하여야 하는 대한민국의 관계 법령 및 개인정보보호 규정, 가이드라인을 준수하고 있습니다.
+개인정보 처리방침이란 이용자의 소중한 개인정보를 보호함으로써 이용자가 안심하고 서비스를 이용할 수 있도록 회사가 준수해야 할 지침을 의미합니다.
+본 개인정보 처리방침은 비만도 계산기 서비스(이하 '비만도계산기')에 적용됩니다.
+
+## 개인정보 수집
+서비스 제공을 위한 필요 최소한의 개인정보를 수집하고 있습니다.
+회원 가입 시 또는 서비스 이용 과정에서 홈페이지 또는 개별 어플리케이션 (이하 ‘앱’)이나 프로그램 등을 통해 아래와 같은 서비스 제공을 위해 필요한 최소한의 개인정보를 수집하고 있습니다.
 
 
-## Introduction
+## 개인정보 이용
+회원관리, 서비스 제공·개선, 신규 서비스 개발 등을 위해 이용합니다.
+회원 식별/가입의사 확인, 본인 확인, 부정이용 방지
+인구통계학적 특성에 따른 분석 및 서비스 제공
+신규 서비스 개발, 다양한 서비스 제공, 문의사항 또는 불만처리, 공지사항 전달
+서비스의 원활한 운영에 지장을 주는 행위(계정 도용 및 부정 이용 행위 등 포함)에 대한 방지 및 제재
+서비스 이용 기록, 접속 빈도 및 서비스 이용에 대한 통계, 프라이버시 보호 측면의 서비스 환경 구축, 맞춤형 서비스 제공, 서비스 개선에 활용
 
-We develop and publish various mobile applications for smartphones and mobile devices. We are dedicated to protecting our users' (“users” or “you”) privacy rights. The purpose of this page is to inform you about our policies with the collection, use, and disclosure of Personally Identifiable Information(“PII”) if anyone decided to use the applications or software offered by us (collectively, the “Service”). If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personally Identifiable Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+## 개인정보 제공
+회사는 이용자의 별도 동의가 있는 경우나 법령에 규정된 경우를 제외하고는 이용자의 개인정보를 제3자에게 제공하지 않습니다.
 
+## 개인정보 파기
+전자적 파일 형태인 경우 복구 및 재생되지 않도록 안전하게 삭제하고, 그 밖에 기록물, 인쇄물, 서면 등의 경우 분쇄하거나 소각하여 파기합니다.
+회사는 ‘개인정보 유효기간제’에 따라 1년간 서비스를 이용하지 않은 회원의 개인정보를 별도로 분리 보관 또는 삭제하고 있으며, 분리 보관된 개인정보는 4년간 보관 후 지체없이 파기합니다.
 
-## Data We Collect
+## 기타
+서비스 내 설정 기능을 통한 변경, 가입 해지(동의 철회)를 위해서는 고객센터를 통해 서면, 전화 또는 이메일로 연락하시면 지체 없이 조치하겠습니다. 개인정보의 오류에 대한 정정을 요청하신 경우 정정을 완료하기 전까지 해당 개인정보를 이용 또는 제공하지 않습니다.
 
-We do not collect any information that users provide directly through the app contents or app features. All data entered by users through the app is stored only on the user's device. However, we may require you to provide us with certain Personally Identifiable Information for a better experience while using our Service. The information that we request is will be retained by us and used as described in this privacy policy. The app does use third party services that may collect information used to identify you.
-
-[ Links to privacy policy of third party service providers used by the Service ]
-
-- [Admob](https://policies.google.com/privacy)
-- [InMobi](https://www.inmobi.com/privacy-policy/)
-- [Facebook](https://www.facebook.com/privacy/explanation)
-- [Adlib](https://adlibr.com/policy/accessTerms)
-
-We use an analytics tool called Firebase in order to gain insight into how our app is being used. This tool automatically collect certain types of information.
-
-[ The list of features of Firebase we use in the application ]
-
--  Google Analytics for Firebase
--  Firebase Remote Config
--  Firebase Dynamic Links
--  Firebase Predictions
-
-[ The list of certain types of information Firebase automatically collect from this application ]
-
--  Mobile ad IDs
--  IDFVs/Android IDs
--  Instance IDs
--  Analytics App Instance IDs
--  Device specs (iOS)
-
-[ The list of certain types of information Admob automatically collect from this application ]
-
--  Cookies
--  Unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)
--  Usage Data
-
-
-## How We Use Information We Collect
-
-We may use the information collected from you in any one or more of the following ways:
-
--  To maintain and improve our Service
--  To assist us in analyzing how our Service is used
--  To prevent fraud or potentially illegal, unethical activities
--  To prevent ad-fraud and abuse
--  To personalizes user's advertising experience
--  To provide advertising and promotional information in connection with the Service
-
-We want to inform users of this Service that these third parties have access to your certain Personally Identifiable Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
-
-
-## How We Protect Your Information
-
-The security and confidentiality of your Personally Identifiable Information is very important to us, so we take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your information from unauthorized access and disclosure. Please know that, despite our efforts, no security measures are perfect or impenetrable.
-
-
-## How We Share Your Information
-
-We do not use or share any information of yours with anyone except as described in this Privacy Policy page. We do not sell any information of yours to third parties.
-
-
-## About Deletion Of Information
-
-All data entered by you through the app will be deleted by removing the app from your device. Personally Identifiable Information that is collected automatically will be processed and stored for as long as required by the purpose they have been collected for. Personally Identifiable Information will be deleted after a reasonable period if you do not use our Service anymore.
-
-
-## Further information about Personal Data
-
--  The Service is not directed to children under the age of 13
-Users declare themselves to be adult according to their applicable legislation. Minors may use this Application only with the assistance of a parent or guardian. Under no circumstance persons under the age of 13 may use this Application.
-
-
-## Links to Other Sites
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-
-## Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
-
-
-## How To Contact Us
-
-If there are any questions regarding this privacy policy, you may contact us using the information below.
+## 연락처
+개인정보처리방침과 관련하여 궁금하신 점이 있으시면 언제든 연락 주십시오.
 
 bin6827@gmail.com
 
-## Last Edited on jan 19, 2024
+
+## 최종 개인정보처리방침 수정일
+공고일: 2024년 01월 19일
